@@ -4,9 +4,9 @@ const index = () => {
   return (
     <div>
       <h1>home</h1>
-      <Link href='/blogs/[slug]' as={`/blogs/me`}>
+      <Link href='/blogs'>
         <a>
-          about me
+          blogs
         </a>
       </Link>
     </div>
