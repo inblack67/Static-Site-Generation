@@ -1,0 +1,17 @@
+[
+    {
+        "name": "DeathNote",
+        "genre": "Death",
+        "keyword": "Ryuzaki"
+    },
+    {
+        "name": "Shippuden",
+        "genre": "Ninja",
+        "keyword": "Uchihas"
+    },
+    {
+        "name": "Bleach",
+        "genre": "Sword",
+        "keyword": "Bankai"
+    }
+]
